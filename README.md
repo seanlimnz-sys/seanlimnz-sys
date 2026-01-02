@@ -12,4 +12,4 @@ Aspiring cybersecurity professional with a strong problem-solving mindset and a 
 - Professional Statement: https://github.com/seanlimnz-sys/Cybersecurity_Portfolio/blob/main/Professional_Statement.md
 
 ## 📫 Connect
-- LinkedIn: (add your link)
+- LinkedIn: https://www.linkedin.com/in/sean-lim-98895b244/
