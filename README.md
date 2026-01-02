@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sean 👋
 
-<!--
-**seanlimnz-sys/seanlimnz-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring cybersecurity professional with a strong problem-solving mindset and a commitment to continuous learning.
 
-Here are some ideas to get you started:
+## 🔐 Focus
+- Security fundamentals (risk, policies, safe operations)
+- Threat awareness & best practices
+- Building a strong technical foundation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Portfolio
+- Cybersecurity Portfolio repo: https://github.com/seanlimnz-sys/Cybersecurity_Portfolio
+- Professional Statement: https://github.com/seanlimnz-sys/Cybersecurity_Portfolio/blob/main/Professional_Statement.md
+
+## 📫 Connect
+- LinkedIn: (add your link)
